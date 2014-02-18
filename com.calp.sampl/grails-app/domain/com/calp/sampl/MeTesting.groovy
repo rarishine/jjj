@@ -4,7 +4,7 @@ class MeTesting {
 String name
 String job
 String test1
-
+String tytytyty
 
 
     static constraints = {
